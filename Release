@@ -1,0 +1,8 @@
+Origin: gcuore's repo
+Label: gcuore's repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: La mia repo Sileo con tweak fatti da me

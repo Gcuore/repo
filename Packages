@@ -1,0 +1,10 @@
+Package: example-tweak
+Name: Example Tweak
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A sample tweak for gcuore's repo
+Maintainer: gcuore
+Filename: debs/example-tweak.deb
+Size: 26
+MD5sum: d41d8cd98f00b204e9800998ecf8427e
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
